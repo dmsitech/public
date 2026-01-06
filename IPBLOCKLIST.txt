@@ -1,2 +1,6 @@
 45.77.95.4/32 #151791
 45.61.136.152/32 #140084
+130.49.216.36/32 #Observed hitting SSL VPN
+130.49.216.38/32 #Observed hitting SSL VPN
+84.239.37.15/32 #Observed hitting SSL VPN
+84.239.43.168/32 #Observed hitting SSL VPN
